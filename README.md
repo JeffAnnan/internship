@@ -22,5 +22,7 @@ Subject : **Voronoi partitions** or **Dirichlet tessellation** in complex convex
 ### definitions
 > * [Triangulation de Delaunay](https://fr.wikipedia.org/wiki/Triangulation_de_Delaunay){:target="_blank"}
 > * [Simplexe](https://fr.wikipedia.org/wiki/Simplexe){:target="_blank"}
+
+* <a href="http://example.com/" target="_blank">Hello, world!</a>
  
 

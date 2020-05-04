@@ -1,8 +1,14 @@
 ## Welcome to GitHub internship repository
 
-Subject : ## Voronoi partitions
+Subject : **Voronoi partitions** or **Dirichlet tessellation** in complex convex shapes.
 
+## Table of Contents 
+[s2](#Semaine2)
+[biblio](#Bibliographie)
+
+## Semaine 1
 You can use the [editor on GitHub](https://github.com/JeffAnnan/internship/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -29,6 +35,8 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Semaine2
+## Bibliographie
 
 ### Jekyll Themes
 

@@ -3,7 +3,7 @@
 Subject : **Voronoi partitions** or **Dirichlet tessellation** in complex convex shapes.
 
 ## Table of Contents 
-[s2](#Semaine2)
+[s2](#Semaine-2)
 [biblio](#Bibliographie)
 
 ## Semaine 1
@@ -35,7 +35,7 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-## Semaine2
+## Semaine 2
 ## Bibliographie
 
 ### Jekyll Themes

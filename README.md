@@ -13,8 +13,7 @@ Subject : **Voronoi partitions** or **Dirichlet tessellation** in complex convex
 ## Week 1
 * Research and Documentation
 * 3d tests : OpenSCAD, MeshLab
-* * Lines of research : 
-* Voronoi partitions * Poisson-disc sampling 
+* Lines of research : * Voronoi partitions * Poisson-disc sampling 
 
 ## week 2
 ## week 3

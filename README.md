@@ -18,10 +18,10 @@ Subject : **Voronoi partitions** or **Dirichlet tessellation** in complex convex
 ## Bibliography
 ### concepts
 > * <a href="https://www.college-de-france.fr/site/jean-daniel-boissonnat/course-2017-03-29-17h00.htm" target="_blank">Cours Modèles géométriques discrets - Collège de France - 29'24" to 44'10"</a>
-> * [La triangulation de Delaunay: application au problème de la superresolution pdf](http://www.tsi.telecom-paristech.fr/pages/enseignement/ressources/beti/delaunay/delaunay_imprimable.pdf){:target="_blank"}
+> * <a href="http://www.tsi.telecom-paristech.fr/pages/enseignement/ressources/beti/delaunay/delaunay_imprimable.pdf" target="_blank">La triangulation de Delaunay: application au problème de la superresolution pdf</a>
 ### definitions
-> * [Triangulation de Delaunay](https://fr.wikipedia.org/wiki/Triangulation_de_Delaunay){:target="_blank"}
-> * [Simplexe](https://fr.wikipedia.org/wiki/Simplexe){:target="_blank"}
+> * <a href="https://fr.wikipedia.org/wiki/Triangulation_de_Delaunay" target="_blank">Triangulation de Delaunay</a>
+> * <a href="https://fr.wikipedia.org/wiki/Simplexe" target="_blank">Simplexe</a>
 
 
  

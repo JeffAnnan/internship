@@ -3,8 +3,8 @@
 Subject : **Voronoi partitions** or **Dirichlet tessellation** in complex convex shapes.
 
 ## Table of Contents 
-[s2](#Semaine-2)
-[biblio](#Bibliographie)
+* [Week 1](#Semaine-2)
+* [Bibliography](#Bibliographie)
 
 ## Semaine 1
 You can use the [editor on GitHub](https://github.com/JeffAnnan/internship/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

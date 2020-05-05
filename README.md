@@ -17,6 +17,7 @@ Subject : **Voronoi partitions** or **Dirichlet tessellation** in complex convex
     * Voronoi partitions 
     * Poisson-disc sampling 
 * Tetgen research
+* Voro++ research
 
 ## week 2
 ## week 3

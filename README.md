@@ -16,7 +16,7 @@ Subject : **Voronoi partitions** or **Dirichlet tessellation** in complex convex
 * Lines of research : 
     * Voronoi partitions 
     * Poisson-disc sampling 
-* Tetgen research
+* Tetgen & TetView research
 * Voro++ research
 * Make & Cmake : automate the compilation process
 

@@ -19,6 +19,7 @@ Subject : **Voronoi partitions** or **Dirichlet tessellation** in complex convex
 * Tetgen & TetView research
 * Voro++ research
 * Make & Cmake : automate the compilation process
+* Medit research
 
 ## week 2
 ## week 3
@@ -32,6 +33,10 @@ Subject : **Voronoi partitions** or **Dirichlet tessellation** in complex convex
 ### definitions
    > * <a href="https://fr.wikipedia.org/wiki/Triangulation_de_Delaunay" target="_blank">Triangulation de Delaunay</a>
    > * <a href="https://fr.wikipedia.org/wiki/Simplexe" target="_blank">Simplexe</a>
+### installations & setup
+   > * <a href="https://github.com/ISCDtoolbox/Medit" target="_blank">Medit vizualisation</a>
+   > * <a href="https://wias-berlin.de/software/tetgen/tetview.tutorial.html#Installation" target="_blank">TetView Tutorial</a>
+   > * <a href="http://web.mit.edu/tetgen_v1.4.1/tetgen-manual.pdf" target="_blank">TetGen : TetGen, Medit, setup...</a> 
 
 
  
